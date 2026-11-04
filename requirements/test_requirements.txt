@@ -3,7 +3,7 @@
 # Note: hypothesis is an optional test dependency, see hypothesis_requirements.txt
 
 Cython
-pytest==9.1.1
+pytest==9.2.0
 pytest-cov==7.1.0
 meson
 ninja; sys_platform != "emscripten"
